@@ -21,6 +21,6 @@ I have provided several examples of code that I have written to process and plot
 *Temperature depth profiles of two permafrost bore holes on the north slope of Alaska. The active layer depth (point where the ground thaws) is shown by the transition from cyan to yellow.*
 
 **Other Plots & Maps**
-![Alt text](/other/guay_et_al_fig3.tiff?raw=true "ALCC Climate Plot" {width=300px height=100})
+![Alt text](/other/guay_et_al_fig3.tiff?raw=true "ALCC Climate Plot" {width=50%})
 ![Alt text](/other/guay_et_al_fig5.tiff?raw=true "ALCC Climate Plot" {width=300px})
 ![Alt text](/other/guay_et_al_sup_ndvi_plot_nbar.tiff?raw=true "ALCC Climate Plot" {width=300px})
