@@ -15,7 +15,7 @@
 # PART TWO: Subset and make aesthetic changes to the dataframe 
 #  (i.e. change the variable name "pr" to "precipitation")
 
-# PART THREE: Plot the data using ggplot2 (using color *OR* B&W)
+# PART THREE: Plot the data using ggplot2 (using color *OR* B&W)  
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 # load required packages

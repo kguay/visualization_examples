@@ -24,6 +24,8 @@ I have provided several examples of code that I have written to process and plot
 
 **Other Plots & Maps**
 
+I created the following figures for a study that I led last year (Guay *et al.* 2014). 
+
 <img src='/other/guay_et_al_fig3.tiff?raw=true' width='50%'>
 
 *Difference between two versions of the GIMMS NDVI product (GIMMSg and GIMMS3g). Black line shows trend from 1982 to 2008. Dotted blue lines show trends before and after an increase in the ∆NDVI around 1997.*
