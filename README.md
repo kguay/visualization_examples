@@ -13,6 +13,8 @@ I have provided several examples of code that I have written to process and plot
 
 <img src='/climate/plots/alcc_park_prism_dcp30_plots_metric.png?raw=true'>
 
+*Past (PRISM and NEX DCP-30 historical; purple and pink, respectively) and future (NEX DCP-30 RCP 4.5 and RCP 8.5; green and blue, respectively) temperature and precipitation data for the Deleware Water Gap (DEWA), Great Smokey Mountain (GRSM) and Shenendoah (SHEN) national parks.*
+
 **Permafrost**
 - Temperature profiles for two permafrost bore holes (u70 and u71) in northern Alaska
 
