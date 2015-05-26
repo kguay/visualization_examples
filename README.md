@@ -23,7 +23,10 @@ I have provided several examples of code that I have written to process and plot
 **Other Plots & Maps**
 
 <img src='/other/guay_et_al_fig3.tiff?raw=true' width='50%'>
-
-<img src='/other/guay_et_al_fig5.tiff?raw=true' width='50%'>
+*Difference between two versions of the GIMMS NDVI product (GIMMSg and GIMMS3g). Black line shows trend from 1982 to 2008. Dotted blue lines show trends before and after an increase in the ∆NDVI around 1997.*
 
 <img src='/other/guay_et_al_sup_ndvi_plot_nbar.tiff?raw=true' width='50%'>
+*(a)NDVI and NDVI trends for GIMMSg, GIMMS3g, MODIS NBAR, MODIS, SeaWiFS, SPOT D10 and SPOT S10. (b) NDVI and NDVI trends between 2002 and 2008 (i.e. the common record between all sensors).*
+
+<img src='/other/guay_et_al_fig5.tiff?raw=true' width='50%'>
+*GIMMS3g NDVI trend from 1982 to 2010. Pizels with significant trends are labeled with a black dot.*
