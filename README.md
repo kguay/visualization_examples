@@ -6,6 +6,9 @@ I have provided several examples of code that I have written to process and plot
 
 **Projects**
 
-- Eastern United States historical and projected climate.
+- Historical and projected climate for the Appalachian Landscape Conservation Cooperative (ALCC)
+- Processed data seperately on NASA's Advanced Supercomputer (NAS), Pleiades
+-	Extracted climate data for each park and "protected area centered ecosystem" (PACE; area directly surrounding the park)
+
 
 ![Alt text](/climate/plots/alcc_pace_prism_dcp30_plots_metric.png?raw=true "ALCC Climate Plot")
