@@ -16,4 +16,5 @@ I have provided several examples of code that I have written to process and plot
 **Permafrost**
 
 ![Alt text](/permafrost/fig_2_tsp_freeze_thaw_depth_temp.png?raw=true "ALCC Climate Plot")
-![Alt text](/permafrost/fig_3_tsp_freeze_thaw_depth_temp.png?raw=true "ALCC Climate Plot")
+Temperature depth profiles of two permafrost bore holes on the north slope of Alaska. The active layer depth (point where the ground thaws) is shown by the transition from cyan to yellow. 
+
