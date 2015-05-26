@@ -4,9 +4,9 @@ This repository is a collection of code that I have written at the Woods Hole Re
 
 I have provided several examples of code that I have written to process and plot satellite data.
 
-**Projects**
+**PROJECTS**
 
-Historical and projected climate for the Appalachian Landscape Conservation Cooperative (ALCC)
+**Historical and projected climate for the Appalachian Landscape Conservation Cooperative (ALCC)**
 - Processed data seperately on NASA's Advanced Supercomputer (NAS), Pleiades
 	- Extracted climate data for each park and "protected area centered ecosystem" (PACE; area directly surrounding the park)
 
