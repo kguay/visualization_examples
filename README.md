@@ -49,4 +49,4 @@ I created the following figures for a study that I led last year (Guay *et al.* 
 
 <img src='/other/guay_et_al_fig5.tiff?raw=true' width='50%'>
 
-*GIMMS3g NDVI trend from 1982 to 2010. Pixels with significant trends are labeled with a black dot.*
+*Agreement between NDVI trend for GIMMS3g, MODIS NBAR, and SPOT D10 from 2002 to 2008. Black dots indicate significant agreement or disagreement (p < 0.05). Agricultural lands and areas north of 72°N are masked (white).*
