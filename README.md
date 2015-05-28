@@ -27,6 +27,8 @@ I have provided two examples of code that I have written to process and plot sat
 
 **Other Scripts, Plots & Maps**
 
+`satellite_image_inventory.py` crawls through the Woods Hole Research Center's on-site servers, identifies spatial data, and extracts metadata to include in a PostgreSQL (geospatial SQL) database.
+
 `solar_insolation_hillshade_hourly.R` calculates solar insolation from digital elevation maps (DEMs) using solar radiation calculations. This script is designed to work on NASA's Advanced Supercomputer (NAS), Pleiades. 
 
 I created the following figures for a study that I led last year (Guay *et al.* 2014). 
