@@ -10,6 +10,9 @@ Additionally, I have included a python script (`other/satellite_image_inventory.
 **PROJECTS**
 
 **Climate**
+
+`climate/plot_clim_data.R`
+
 - Historical and projected climate for the Appalachian Landscape Conservation Cooperative (ALCC)
 - Processed data seperately on NASA's Advanced Supercomputer (NAS), Pleiades
 	- Extracted climate data for each park and "protected area centered ecosystem" (PACE; area directly surrounding the park)
@@ -19,6 +22,9 @@ Additionally, I have included a python script (`other/satellite_image_inventory.
 *Past (PRISM and NEX DCP-30 historical; purple and pink, respectively) and future (NEX DCP-30 RCP 4.5 and RCP 8.5; green and blue, respectively) temperature and precipitation data for the Deleware Water Gap (DEWA), Great Smokey Mountain (GRSM) and Shenendoah (SHEN) national parks.*
 
 **Permafrost**
+
+`permafrost/plot_profile.R`
+
 - Temperature profiles for two permafrost bore holes (u70 and u71) in northern Alaska
 
 <img src='/permafrost/fig_2_tsp_freeze_thaw_depth_temp.png?raw=true'>
