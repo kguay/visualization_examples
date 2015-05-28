@@ -1,3 +1,6 @@
+Visualization Examples
+=========================
+
 **OVERVIEW**
 
 This repository is a collection of code that I have written at the Woods Hole Research Center using the R programming language. R is a scripting language similar to Python.
@@ -22,7 +25,9 @@ I have provided two examples of code that I have written to process and plot sat
 
 *Temperature depth profiles of two permafrost bore holes on the north slope of Alaska. The active layer depth (point where the ground thaws) is shown by the transition from cyan to yellow.*
 
-**Other Plots & Maps**
+**Other Scripts, Plots & Maps**
+
+`solar_insolation_hillshade_hourly.R` calculates solar insolation from digital elevation maps (DEMs) using solar radiation calculations. This script is designed to work on NASA's Advanced Supercomputer (NAS), Pleiades. 
 
 I created the following figures for a study that I led last year (Guay *et al.* 2014). 
 
