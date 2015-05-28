@@ -5,7 +5,7 @@ Visualization Examples
 
 This repository is a collection of code that I have written at the Woods Hole Research Center using the R programming language. R is a scripting language similar to Python.
 
-I have provided two examples of code that I have written to process and plot satellite data as well as some other plots from my recent paper in Global Change Biology (Guay *et al.* 2014).
+Additionally, I have included a python script (`other/satellite_image_inventory.py`) that I wrote as part of my first project working at the Woods Hole Research Center in 2012. 
 
 **PROJECTS**
 
